@@ -24,8 +24,7 @@ These projects demonstrate practical implementations of database design and API 
   3. The schema will create tables for `Patients`, `Doctors`, `Appointments`, `Treatments`, and `Prescriptions`.
 
 - **ERD**:
-  Below is a link to the Entity-Relationship Diagram (ERD) visualizing the schema design:
-  [View Clinic Booking System ERD](https://link-to-your-erd.com)
+  - The Entity-Relationship Diagram (ERD) for the Clinic Booking System is available in the repository as a PDF file (`clinic_booking_system_erd.pdf`). This diagram visually represents the database structure, including entities and their relationships.
 
 ---
 
@@ -44,10 +43,10 @@ These projects demonstrate practical implementations of database design and API 
      ```
   4. Access the API:
      - Navigate to the Swagger UI: `http://127.0.0.1:8000/docs` to test the API endpoints.
-
+     - 
 - **ERD**:
-  Below is a link to the Entity-Relationship Diagram (ERD) for the Task Manager schema:
-  [View Task Manager ERD](https://link-to-your-erd.com)
+  - The Entity-Relationship Diagram (ERD) for the Task Manager database schema can also be generated from the `task_manager_schema.sql` file if needed.
+
 
 ---
 
@@ -63,18 +62,5 @@ These projects demonstrate practical implementations of database design and API 
 - Supports filtering tasks by status (Pending, In Progress, Completed).
 
 ---
-
-## Screenshots
-### **ERD for Clinic Booking System**
-![Clinic Booking System ERD](https://link-to-your-erd-image.com)
-
-### **ERD for Task Manager**
-![Task Manager ERD](https://link-to-your-erd-image.com)
-
----
-
-## Acknowledgements
-- **Database Design**: MySQL relational database schema design.
-- **API Development**: FastAPI for building RESTful APIs.
 
 Feel free to explore the repository and adapt it to your needs!
